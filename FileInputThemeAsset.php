@@ -7,7 +7,7 @@
  * @version 1.0.7
  */
 
-namespace kartik\file;
+namespace nfacha\file;
 
 use kartik\base\AssetBundle;
 use Yii;
